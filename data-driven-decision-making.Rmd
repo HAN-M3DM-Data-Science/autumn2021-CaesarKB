@@ -1,5 +1,5 @@
 ---
-title: "Assigment - Data Driven Decision Making"
+title: "Assignment 1- Spotify Discover Weekly"
 author: name author here
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
@@ -12,19 +12,30 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 <---- Watch this video if you don't know how to embed video's ---->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZcmJxli8WS8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <---- Replace this video with your business case example ---->
 
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Spotify is known for its Playlist recommendation for its users with precise accuracy. The organization has consistently focused on machine learning. Machine learning is a subset of artificial intelligence (AI) in which machines learn to perform a particular task without being explicitly programmed. In order for the machine to learn independently and find solutions, previous human actions are required. For example, the systems must first be supplied with the learning-relevant data. 
+In addition, rules must be defined for the analysis of the data and the recognition of the patterns. Algorithms allow machines to learn from data without relying on rule-based programming. Using Spotify Machine Learning, music playlists can be predicted for their clients based on the analyzed data. Personalized playlists like Discover Weekly 
+account for 31% of all posts on the platform.(Havard Business School, 2018)
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Spotify developed a Data driven culture and established three types of AI models to predict and furthermore enhance it's recommendation software: Collaborative Filtering, Natural Language Processing (NLP), and Raw Audio Models1.(Ciocca, 2018) 
+With the Collaborative Filtering Method, Spotify provides recommendations to users based on music similarities. The software analyzes not only your behaviour, but also the behaviour of others. Therefore music similarities are matched and recommended.
+The second method, NLP, tracks word similarities. NLP tracks and identifies human speech as it is spoken. Therefore, Spotify scours articles, blogs and songs metadata to generate tags associated with each song and compare those with those of other songs.(Ciocca, 2018)
+Since artists on Spotify are able to release songs regarding their popularity, the third Method, allows Spotify to make predictive suggestions for songs with very little awareness. With Raw Audios, the company is able to identify similarities between songs through their musical elements (e.g, tempo, key, etc.) 
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+With these three recommission models, it is quite evident how important Data driven decision making is. Data is a key resource for all companies and with the implementation of technology, information becomes crucial in a competitive field. The application of these Information technology components, the company is able to predict demand precisely and increase customers satisfaction. Customers satisfaction is extremely important and AI provides the best tools for communicating with customers and solving their problems.
+
+## References 
+
+Havard Business School.(2018).Spotify + The Machine: Using Machine Learning to Create Value and Competitive Advantage. Retrieved 19.09.2021 from:"https://digital.hbs.edu/platform-rctom/submission/spotify-the-machine-using-machine-learning-to-create-value-and-competitive-advantage/"
+Ciocca, S.(2018).Medium.How Does Spotify Know You So Well? A software engineer explains the science behind personalized music recommendations.Retrieved 19.09.2021 from:"https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe"
+Spotify.(2021).Spotify Information.Retrieved 19.09.2021 from :"https://www.spotify.com/us/about-us/contact/"
