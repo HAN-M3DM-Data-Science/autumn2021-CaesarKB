@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1- Spotify Discover Weekly"
-author: name author here
+author: Caesar Bobson
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
