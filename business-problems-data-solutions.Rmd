@@ -1,6 +1,6 @@
 ---
-title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+title: "Assigment 3- Starbucks "
+author: Caesar Bobson
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -10,17 +10,26 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7_GpgSpaKTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Starbucks not only consumes vast quantities of coffee beans to satiate its consumers, but also possesses vast amounts of data in a variety of ways to improve the customer experience and its business. Processing 100 million transactions a week in 30,000 stores worldwide, in many respects the coffee giant is a pioneer in the use of Big Data, artificial intelligence and Data mining to support marketing, sales and business decisions (Forbes, 2018). In the past, decisions at Starbucks as at many other companies, actually been made by people and were based on experience and judgment. While data was important, it was not as systematic as it could be (Rahman, 2020). There for Starbucks had to make precise and strategic decisions on their locations and customer preferences in order to stay successful in their operating market (Roberts-Witt, 2002). 
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Starbucks demonstrated how artificial intelligence assists in better predicting what customers want, considering factors such as weather, location, and user preferences (J. Martin, n.d.). Business markets are increasingly competitive, and companies are constantly looking for ways to improve their data processing in order to identify the behavioural patterns of their customers when they purchase their products. Starbuck utilizes techniques associated with customer data mining, concepts and key techniques such as market basket analysis, association algorithms, and cross and top-selling (Rahman, 2020). Data mining supports knowledge discovery by detecting hidden patterns and associations, constructing analytical models, classifying, and presenting mining results using visualization tools (Castelo-Branco, 2019)
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+With its expertise in data mining, Starbucks has gained a lot of competitive advantage in its market. For example, by targeting customers with personalized promotions and offers or through insightful product development, even across channels. This allows the company to target specific customer preferences and thus reduce costs. (Rahman, 2020) 
+
+
+## References
+
+Roberts-Witt, S. L. 2002. Data mining: What lies beneath? Finding patterns in customer behavior can deliver profitable insights into your business.Retrieved 19.10.2021 from:https://maaw.info/ArticleSummaries/ArtSumRoberts-Witt2002.htm
+Rahman, W. 2020. Starbucks Isn’t a Coffee Business — It’s a Data Tech Company. Retrieved 19.10.2021 from:"https://marker.medium.com/starbucks-isnt-a-coffee-company-its-a-data-technology-business-ddd9b397d83em" 
+Martin J.(n.d.).What is Data Mining?.Retrieved 19.10.2021 from:"https://maaw.info/DataMining.htm" 
+Castelo-Branco, F.(2019). Business Intelligence and Data Mining to Support Sales in Retail.Retrieved 19.10.2021 from:"https://link.springer.com/chapter/10.1007/978-981-15-1564-4_38"
+Mar, B.(2018). Forbes.Starbucks: Using Big Data, Analytics And Artificial Intelligence To Boost Performance. Retrieved 19.10.2021 from:"https://www.forbes.com/sites/bernardmarr/2018/05/28/starbucks-using-big-data-analytics-and-artificial-intelligence-to-boost-performance/?sh=4e96c9ea65cd"
