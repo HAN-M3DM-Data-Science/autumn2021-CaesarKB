@@ -1,5 +1,6 @@
 ---
-title: "Assigment - Data Driven Business"
+title: "Assigment 2 - Shell Data Driven Business"
+author: Caesar Bobson
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -9,17 +10,26 @@ output:
 
 Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QlqI0gGOjo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Dan Jeavons, General Manager of Data Science at Shell, discusses the increasing importance of data to business and the insights that a data-driven organization can gain. In this course, specifically in the Data Science for Business literature, we address how organizations approach business problems analylitically. By using comprehensive portfolio data analytics methods to achieve their goals. For example, using data mining processes to extract "good" data using the most appropriate method. Dan Jeavon explains that as an oil and gas company, Shell is extremely data-dependent and is trying to create a data-driven culture by not only making data an "asset" to the company (by viewing data as an asset rather than something abstract). Shell has also taken on the challenge of eliminating silos in the organization by creating a data lake.(AWS report, 2018)
+
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+As mentioned earlier, Shell has created a backbone for the company's use of data by implementing a data lake. Jeavos notes that it is important that all data is stored in one place, but it is even more important that it is stored accurately. This means that the data can be accessed at any time and in any place. Shell currently has a data lake with billions of pieces of information, 600 billion aggregated rows to be exact, which is one of the largest data sets for a company in the world. (Jeavos, 2020). It also focuses on MVPs (Minimum Valuable Products), which significantly impact the company's performance by creating KPIs to measure and track goals. In this way, data capabilities become essential to the business.(Effective Data Management, 2021)
+
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+While the company wants to learn from cloud-based technology companies as they have a different perspective and overall approach to data, Shell is leveraging external capabilities (outsourcing) to transform the company into a more data-centric entity. Dan Jeavos also explains that the company is investing heavily in data science programs, such as the Shell AI Community with more than 2000 people motivated to learn AI skills. (Shell, 2021). What also makes a big difference is communication and understanding the language of data science.
+
+
+## References
+
+AWS Report.(2018).From data lakes to rivers of insight: Our vision for the Oil & Gas industry and AWS partnership.Retrieved 19.10.2021 from:"https://d1.awsstatic.com/Industries/Oil/AWS_Data_Lakes_eBook_O%26G_Final.pdf"
+Effective Data Management.(2021).MVP: Minimum Viable Product Retrieved 19.10.2021 from:"https://effectivedatabase.com/mvp-minimum-viable-product/"
+Shell.(2021).SHELL.AI RESIDENCY PROGRAMME.Retrieved 19.10.2021 from:"https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai/shell-ai-residency-programme.html"
 
